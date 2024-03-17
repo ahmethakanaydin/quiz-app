@@ -1,8 +1,6 @@
-# React + Vite
+# React + Tailwind + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Test çalışması toplamda 10 soru olmalı, A-B-C-D şıklarından oluşmalıdır.
+- Her soru ekranda 30 saniye kalacaktır, ilk 10 saniye cevap şıklarına tıklanamayacak olup 10. saniyeden sonra tıklanabilecektir ve 30. saniyeden sonra bir sonraki soruya geçmelidir.
+- Geçmiş sorulara dönülmemelidir.
+- Test bitiminde her soruya verilen yanıtlar tablo olarak gösterilmelidir.
